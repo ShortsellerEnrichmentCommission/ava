@@ -1,0 +1,29 @@
+{
+  "name": "ava",
+  "version": "0.0.0",
+  "description": "Discord Ava Bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ShortsellerEnrichmentCommission/ava.git"
+  },
+  "keywords": [
+    "discord",
+    "ava",
+    "bot",
+    "ravencoin",
+    "raven"
+  ],
+  "author": "BW",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ShortsellerEnrichmentCommission/ava/issues"
+  },
+  "homepage": "https://github.com/ShortsellerEnrichmentCommission/ava#readme",
+  "devDependencies": {
+    "typescript": "^3.1.3"
+  }
+}
